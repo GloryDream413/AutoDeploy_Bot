@@ -1,4 +1,4 @@
-# Telegram DALL·E bot
+# Telegram Token AutoDeploy Bot
 Auto TokenContract Deploy Bot
 
 ## Introduction
